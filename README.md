@@ -13,7 +13,7 @@ Contains customer-related data such as:
 - Customer ID  
 - Age  
 - Gender  
-- Income  
+- Income 
 - Spending Score  
 - Purchase History  
 - Product Category  
